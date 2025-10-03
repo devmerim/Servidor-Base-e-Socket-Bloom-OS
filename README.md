@@ -38,3 +38,9 @@ tire os '' do código e faça um arquivo.bat com esse código.
 Se tudo estiver certo, aparecerá:
 
 Bloom-OS Server rodando na porta 5000
+
+
+📜 Licença
+
+Este projeto é distribuído de forma aberta para a comunidade maker.
+Sinta-se livre para usar, modificar e compartilhar em seus projetos de RPG Maker MV.
