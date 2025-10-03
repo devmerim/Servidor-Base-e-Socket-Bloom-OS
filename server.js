@@ -1,6 +1,6 @@
 // server.js - Bloom-OS Base
 // Requisitos: use o cmd para instalar o seguinte comando >> npm install ws sqlite3 bcrypt
-// Autor: Merim @AetherMakers
+// Autor: Merim @AetherMakers  https://aethermakers.forumeiros.com/
 
 // server.js
 const WebSocket = require("ws");
@@ -10,7 +10,7 @@ const bcrypt = require("bcrypt");
 // Banco de dados   
 const db = new sqlite3.Database("./bloom.db");
 
-// Cria tabela de contas básica <<< aqui é a seção de tabelas 
+// Cria tabela de contas básica <<< aqui é a sessão de tabelas 
 db.run(`CREATE TABLE IF NOT EXISTS accounts (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   username TEXT UNIQUE,
