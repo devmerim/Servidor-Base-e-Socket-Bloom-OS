@@ -1,6 +1,6 @@
 /*:
  * @plugindesc Bloom-OS Socket Base - Conexão com servidor Node.js
- * @author Merim
+ * @author Merim @AetherMakers  https://aethermakers.forumeiros.com/
  */
 
 (function(){
